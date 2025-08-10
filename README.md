@@ -32,6 +32,11 @@ I’m an **AI & Machine Learning aspirant** passionate about exploring the world
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
+## 🏆 Achievements
+
+You can check out all my GitHub achievements here:  
+[View My GitHub Achievements](https://github.com/users/tharunm490/achievements)
+
 
 ### 📫 Connect with Me
 
