@@ -2,6 +2,8 @@
 # 👋 Hello, I’m Tharun M!
 
 I’m an **AI & Machine Learning aspirant** passionate about exploring the world of data, building intelligent applications, and creating seamless web experiences.
+<img width="1024" height="1024" alt="pngtree_cartoon-boy-avatar-with-glasses_21478344" src="https://github.com/user-attachments/assets/ac0c807f-fd9f-4185-8a92-bc6eda794f92" />
+
 
 ### About Me
 - Currently diving deep into AI and Machine Learning concepts.
