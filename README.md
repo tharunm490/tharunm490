@@ -5,7 +5,7 @@ I’m an **AI & Machine Learning aspirant** passionate about exploring the world
  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #333;">
     My Avatar
   </h2>
-<img width="400px" height="400px" alt="pngtree_cartoon-boy-avatar-with-glasses_21478344"   style="display: block; margin: 0 auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1) src="https://github.com/user-attachments/assets/ac0c807f-fd9f-4185-8a92-bc6eda794f92" />
+<img width="400px" height="400px" alt="pngtree_cartoon-boy-avatar-with-glasses_21478344"   style="display: block; margin: 0 auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)" src="https://github.com/user-attachments/assets/ac0c807f-fd9f-4185-8a92-bc6eda794f92" />
 
 
 ### About Me
