@@ -1,12 +1,29 @@
-
 # 👋 Hello, I’m Tharun M!
 
 I’m an **AI & Machine Learning aspirant** passionate about exploring the world of data, building intelligent applications, and creating seamless web experiences.
- <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #333;">
-    My Avatar
-  </h2>
-<img width="400px" height="400px" alt="pngtree_cartoon-boy-avatar-with-glasses_21478344"   style="display: block; margin: 0 auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)" src="https://github.com/user-attachments/assets/ac0c807f-fd9f-4185-8a92-bc6eda794f92" />
 
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #333;">
+   My Avatar
+</h2>
+
+<img width="400px" height="400px" alt="pngtree_cartoon-boy-avatar-with-glasses_21478344" 
+     style="display: block; margin: 0 auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)" 
+     src="https://github.com/user-attachments/assets/ac0c807f-fd9f-4185-8a92-bc6eda794f92" />
+
+---
+
+### 📊 GitHub Stats
+
+![Tharun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunm490&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharunm490&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunm490&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=tharunm490&theme=radical&row=1&column=6)
+
+---
 
 ### About Me
 - Currently diving deep into AI and Machine Learning concepts.
@@ -16,7 +33,9 @@ I’m an **AI & Machine Learning aspirant** passionate about exploring the world
 - Knowledgeable in **C++** with a focus on **Data Structures**, helping me understand algorithmic thinking and problem-solving.
 - Constantly learning and experimenting to bridge the gap between data science, algorithms, and full-stack development.
 
-### What I’m showcasing here
+---
+
+### 🚀 What I’m showcasing here
 - Projects demonstrating my skills in React for dynamic web apps.
 - Data cleaning, analysis, and visualization with Python libraries like Pandas and NumPy.
 - Responsive web design using Bootstrap and CSS.
@@ -25,7 +44,7 @@ I’m an **AI & Machine Learning aspirant** passionate about exploring the world
 
 ---
 
-### Skills & Tools
+### ⚡ Skills & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -37,11 +56,12 @@ I’m an **AI & Machine Learning aspirant** passionate about exploring the world
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
-## 🏆 Achievements
 
+## 🏆 Achievements
 You can check out all my GitHub achievements here:  
 [View My GitHub Achievements](https://github.com/users/tharunm490/achievements)
 
+---
 
 ### 📫 Connect with Me
 
@@ -51,5 +71,4 @@ You can check out all my GitHub achievements here:
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects and reach out if you want to collaborate or chat about AI, ML, or coding!
-
+✨ Thanks for stopping by! Feel free to explore my projects and reach out if you want to collaborate or chat about AI, ML, or coding!
